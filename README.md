@@ -31,6 +31,7 @@ Add the following features one by one, refreshing the page to see your functiona
   * the pause button should then show the text "resume."
 
   When 'resume' is clicked, it should restart the counter and re-enable the buttons.
+  
 5. As a user, I can leave comments on my gameplay, such as: "Wow, what a fun game this is."
 
 ## Hint for the timer
